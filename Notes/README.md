@@ -3,7 +3,9 @@
 This folder contains notes and small learning exercises for Streamlit.
 
 ## Project Rule
-Whenever a change is made to any file in this project, update this README with:
+This rule applies to every README file in this repository.
+
+Whenever a change is made to any file in this project, update the relevant README file(s) with:
 - the date
 - a short summary of the change
 - the file(s) affected
