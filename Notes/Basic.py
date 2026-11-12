@@ -20,5 +20,5 @@ fvrt_person = st.selectbox(
 )
 
 # Show a congratulatory message only when a valid name is selected
-if fvrt_person != "NAME":
+if fvrt_person != None :
     st.write(f"You choose {fvrt_person}. Well done")
