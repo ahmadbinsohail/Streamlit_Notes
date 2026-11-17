@@ -25,4 +25,4 @@ with st.expander("Show Tea Making Instructions"):
     1. Boil water with tea leaves
     2. Add milk and spices
     3. Serve hot
-    "")
+    """)
