@@ -1,4 +1,6 @@
 import streamlit as st
+st.markdown("# Welecome to Tea App")
+st.markdown("You can learn_______________________")
 
 # App title for the tea poll
 st.title("Tea Taste Poll")
