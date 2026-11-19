@@ -8,4 +8,4 @@ tea_type = st.radio("Choose Tea Base",["Milk","Water","Almond Milk"],index=None)
 make_tea = st.button("Make Tea")
 if make_tea :
     st.success("Tea is being brewed")
-st.selectbox("Select Your flavour",)
+st.selectbox("Select Your flavour",["masala", "lemon", "green", "ginger"], index=None, placeholder="flavour")
