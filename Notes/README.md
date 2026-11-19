@@ -14,6 +14,11 @@ This keeps the project documentation in sync with the latest updates.
 
 ## Updates and Changes
 
+### 2026-11-19
+- Added comments to `Chapter_5.py` explaining data loading, optional filtering, and the selected output view.
+- Files updated:
+  - `Chapter_5.py`
+
 ### 2026-11-13
 - Added explanatory comments to `Assingnment_2.py` to document the date logic, input controls, and age calculation.
 - Improved readability by separating the app setup, user input, and output sections into clear labeled blocks.

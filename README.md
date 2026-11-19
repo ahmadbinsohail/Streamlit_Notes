@@ -14,6 +14,14 @@ If a README file does not exist in a folder, create one and include this rule.
 
 ## Update Log
 
+### 2026-11-19
+- Added comments to the Chapter 5 game-sales app explaining data loading, filtering, and output display.
+- Updated the notes README to record the change.
+- Files updated:
+  - `Notes/Chapter_5.py`
+  - `Notes/README.md`
+  - `README.md`
+
 ### 2026-11-13
 - Added explanatory comments to the age calculator script in `Notes/Assingnment_2.py`.
 - Updated the project README files to document the latest change for the notes folder.
